@@ -1,1 +1,1 @@
-# Jack's Game for you know
+# Jack's Game
